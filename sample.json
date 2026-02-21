@@ -1,0 +1,11 @@
+{
+    "action": "COPY",
+    "resources": {
+        "source": "/mnt/c/Users/adroy/Downloads/folder1/file1",
+        "destination": "/mnt/c/Users/adroy/Downloads/folder1/file2"
+    },
+    "identifier": {
+        "commandId": 1234,
+        "requester": "aditya"
+    }
+}
